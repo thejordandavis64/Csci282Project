@@ -4,4 +4,4 @@ out/
 *.iml
 .DS_Store
 # saved app data (each person keeps their own)
-data/
+/data/
